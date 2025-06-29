@@ -1,12 +1,16 @@
 # MBMOT Dataset
 Marine Benthos Multi-Target Object Tracking Dataset
 
-通过网盘分享的文件：tracking_dataset
+File shared via webdrive: tracking_dataset
 
-链接: https://pan.baidu.com/s/1nWGjaCDXNH0-nOhIWqvpPQ 提取码: a5v5 
+Link: https://pan.baidu.com/s/1nWGjaCDXNH0-nOhIWqvpPQ 
+
+Extract code: a5v5 
 
 
 # Detection Dataset
-通过网盘分享的文件：DetectionDataset
+File shared via webdrive: DetectionDataset
 
-链接: https://pan.baidu.com/s/1C9BFwaCURTlsmidIlpLmOA 提取码: epdj 
+Link: https://pan.baidu.com/s/1C9BFwaCURTlsmidIlpLmOA 
+
+Extract code: epdj 
